@@ -1,0 +1,47 @@
+header{
+    background-color: white;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: lightgrey;
+}
+header h1{
+    width: 600px;
+    margin: 0px;
+    margin: auto;
+}
+article{
+    width: 600px;
+    margin: auto;
+}
+.photoheader{
+    padding: 15px 15px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.date{
+    font-size: 1rem;
+    color: black;
+}
+.quote{
+    background-color: white;
+    padding: 15px;
+    margin: 0%;
+}
+.quote p{
+    padding: 0%;
+    margin: 0%;
+}
+.photo{
+    background-color: white;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
